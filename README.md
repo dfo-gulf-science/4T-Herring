@@ -1,10 +1,14 @@
-This public repository includes all the data required to run the population models for both spring and fall NAFO 4T Herring stocks. This data is provided by the Department of Fisheries and Oceans Canada - Gulf region.
+This public repository includes all the data required to run the population models for both spring and fall NAFO 4T Herring stocks.
 
-Both models require ADMB and run with the following command lines:
+This data is provided by the Department of Fisheries and Oceans Canada - Gulf region.
 
-admb ###.tpl
-###.exe -mcmc 501000 -mcsave 100
-### -mceval
+Both models require ADMB (http://www.admb-project.org/) and run with the following command lines:
+
+Step 1) admb ###.tpl
+
+Step 2) ###.exe -mcmc 501000 -mcsave 100
+
+Step 3) ### -mceval
 
 Description of both models can be found in this research document: 
 
@@ -12,10 +16,4 @@ https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41091589.pdf
 
 For more details please contact:
 
-Nicolas Rolland, Ph.D.
-Section Head Marine Fish and Mammals
-Fisheries and Oceans Canada
-Gulf Fisheries Centre
-343 Université avenue P.O. Box 5030
-Moncton, NB, E1C 9B6
-nicolas.rolland@dfo-mpo.gc.ca
+Nicolas Rolland: nicolas.rolland@dfo-mpo.gc.ca
