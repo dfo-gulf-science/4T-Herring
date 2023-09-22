@@ -4,9 +4,11 @@ This data is provided by the Department of Fisheries and Oceans Canada - Gulf re
 
 Both models require ADMB (http://www.admb-project.org/) and run with the following command lines:
 
-  Step 1) admb ###.tpl
-  Step 2) ###.exe -mcmc 501000 -mcsave 100
-  Step 3) ### -mceval
+Step 1) admb ###.tpl
+
+Step 2) ###.exe -mcmc 501000 -mcsave 100
+
+Step 3) ### -mceval
 
 Description of both models can be found in this research document: 
 
