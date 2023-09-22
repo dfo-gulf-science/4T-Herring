@@ -1,0 +1,7 @@
+name_nom,description_en,description_fr
+Year,year,année
+Fall_acoustic_biomass,Fall spawners acoustic biomass in tons (t),Biomasse acoustique des reproducteurs d'automne en tonnes (t)
+Spring_acoustic_biomass,Spring spawners acoustic biomass in tons (t),Biomasse acoustique des reproducteurs de printemps en tonnes (t)
+Total_acoustic_biomass,Total acoustic biomass in tons (t),Biomasse acoustique totale en tonnes (t)
+Proportion_Fall_acoustic_biomass,Proportion (%) of Fall spawners acoustic biomass,Proportion de la biomasse acoustique des reproducteurs d'automne (%)
+Proportion_Spring_acoustic_biomass,Proportion (%) of Spring spawners acoustic biomass,Proportion de la biomasse acoustique des reproducteurs de printemps (%)
